@@ -1,6 +1,6 @@
 import React from 'react'
 import './Home.css'
-import ppp2 from "../../assets/ppp2.png"
+import prk from '../../assets/prk.png'
 import TypingEffect from "react-typing-effect"
 import { useGSAP } from '@gsap/react'
 import gsap from 'gsap'
@@ -38,7 +38,7 @@ function Home() {
                     <div className="line1">
                         I'M
                     </div>
-                    <div className="line2"> Pranav Teotia</div>
+                    <div className="line2"> Prakhar Teotia</div>
                     <div className="line3">
                         <TypingEffect
                         text={["WEB DEVELOPER","SOFTWARE DEVELOPER","JAVA DEVELOPER"]}
@@ -51,7 +51,7 @@ function Home() {
                         
 
                     </div>
-                    <a href="https://drive.google.com/file/d/1n5G9P8otTanw8ZQ8M3Chiv9hu1NQ4oGd/view?usp=drive_link" download="PranavTF.pdf">
+                    <a href="https://drive.google.com/file/d/1BBqSnxRSDHU5gSWnFDTNU5H3qr7gZppQ/view?usp=drive_link" download="Prakhar_t_07-04.pdf">
                         <button>HIRE ME</button>
                     </a>
 
@@ -59,7 +59,7 @@ function Home() {
 
             </div>
             <div className="righthome">
-                <img src={ppp2} alt="men" />
+                <img src={prk} alt="men" />
             </div>
             
         </div>

@@ -101,7 +101,7 @@ function About() {
                     <div className="personal">
                         <h1>Personal Information</h1>
                         <ul>
-                            <li><span>Name</span>: Pranav Teotia</li>
+                            <li><span>Name</span>: Prakhar Teotia</li>
                             <li><span>GENDER</span>: MALE</li>
                             <li><span>LANGUAGE KNOWN</span>: HINDI, ENGLISH</li>
                         </ul>
@@ -112,23 +112,23 @@ function About() {
                             <li><span>DEGREE</span>: B.TECH</li>
                             <li><span>BRANCH</span>: COMPUTER SCIENCE & ENGINEERING(AI)</li>
                             <li><span>BATCH</span>: 2021-2025</li>
-                            <li><span>PERCENTAGE</span>: 68%</li>
+                            <li><span>PERCENTAGE</span>: 67%</li>
 
-                        </ul>
+                        </ul><br />
                         <ul>
                             <li><span>DEGREE</span>: SENIOR SECONDARY SCHOOL</li>
                             <li><span>BRANCH</span>: SCIENCE(PCM)</li>
                             <li><span>BATCH</span>: 2020-2021</li>
-                            <li><span>PERCENTAGE</span>: 89.4%</li>
+                            <li><span>PERCENTAGE</span>: 87%</li>
 
-
-                        </ul>
+                        </ul><br />
                         <ul>
                             <li><span>DEGREE</span>: SECONDARY SCHOOL</li>
                             <li><span>BATCH</span>: 2018-2019</li>
-                            <li><span>PERCENTAGE</span>: 84%</li>
+                            <li><span>PERCENTAGE</span>: 85%</li>
 
                         </ul>
+ 
                     </div>
                     <div className="skill">
                         <h1>Skill</h1>

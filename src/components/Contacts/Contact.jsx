@@ -56,10 +56,10 @@ function Contact() {
                     <button type="submit" id='btn' disabled={state.submitting}>Send Message</button>
                     
                     <div className="social-buttons">
-                        <a href="https://www.linkedin.com/in/pranav-teotia-8aa01a2a1/" target="_blank" rel="noopener noreferrer" className="social-btn linkedin">
+                        <a href="http://www.linkedin.com/in/prakhar-teotia16" target="_blank" rel="noopener noreferrer" className="social-btn linkedin">
                             <FaLinkedin size={20} /> LinkedIn
                         </a>
-                        <a href="https://github.com/PranavTeotia" target="_blank" rel="noopener noreferrer" className="social-btn github">
+                        <a href="https://github.com/PrakharTeotia" target="_blank" rel="noopener noreferrer" className="social-btn github">
                             <FaGithub size={20} /> GitHub
                         </a>
                     </div>

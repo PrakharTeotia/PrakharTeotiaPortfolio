@@ -52,7 +52,7 @@
 /* About Details */
 .aboutdetails {
     display: flex;
-    gap: 40px;
+    gap: 20px;
     flex-direction: column;
 }
 
