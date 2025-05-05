@@ -139,6 +139,10 @@ function About() {
                                 FRONTEND:<br />
                                 [HTML, CSS, TAILWINDCSS, JAVASCRIPT, REACT.JS]
                             </li>
+                            <li>
+                                BACKEND:<br />
+                                [JAVA, SPRING BOOT, Spring MVC, Spring Data JPA, Hibernate, MySQL, RESTful APIs]
+                            </li>
                         </ul>
                     </div>
                 </div>
